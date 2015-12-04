@@ -22,7 +22,7 @@
     label.text = @"hello world";
     label.font = [UIFont systemFontOfSize:16];
     
-    label.backgroundColor = [UIColor redColor];
+    label.backgroundColor = [UIColor grayColor];
     label.textAlignment = NSTextAlignmentCenter;
     
 }
