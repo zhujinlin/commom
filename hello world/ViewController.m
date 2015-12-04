@@ -20,7 +20,7 @@
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(100, 200, 200, 20)];
     [self.view addSubview:label];
     label.text = @"hello world";
-    label.font = [UIFont systemFontOfSize:16];
+    label.font = [UIFont systemFontOfSize:26];
     
     label.backgroundColor = [UIColor whiteColor];
     label.textAlignment = NSTextAlignmentCenter;
